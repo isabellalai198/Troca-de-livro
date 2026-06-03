@@ -43,15 +43,15 @@ Badge de notificação na aba Trocas quando há propostas pendentes.
 
 Tema claro/escuro automático com paleta terracota/âmbar.
 
-Página inicial 👋
+👋 Página inicial
 
 <img width="920" height="529" alt="image" src="https://github.com/user-attachments/assets/f28f1591-7b3d-4fdf-9ae6-aa7fe57f7457" />
 
-Cadastro do livro 📚
+📚 Cadastro do livro
 
 <img width="919" height="532" alt="image" src="https://github.com/user-attachments/assets/d21b577d-3822-4e53-bd28-f28aec10eae1" />
 
-Histórico de livro para troca 🔄
+🔄 Histórico de livro para troca
 
 <img width="918" height="530" alt="image" src="https://github.com/user-attachments/assets/eb786c58-4247-4e23-8302-b97728171897" />
 
@@ -70,7 +70,7 @@ AsyncStorage
 
 CRUD completo com interface intuitiva e foco em UX.
 
-Navegação 👾
+👾 Navegação 
 
 Para testar no celular, baixe o Expo Go e escaneie o QR code no menu da URL.
 
