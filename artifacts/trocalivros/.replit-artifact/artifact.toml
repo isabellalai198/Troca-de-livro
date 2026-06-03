@@ -1,0 +1,27 @@
+kind = "mobile"
+previewPath = "/"
+title = "TrocaLivros"
+version = "1.0.0"
+id = "artifacts/trocalivros"
+router = "expo-domain"
+
+[[integratedSkills]]
+name = "expo"
+version = "1.0.0"
+
+[[services]]
+ensurePreviewReachable = "/status"
+name = "expo"
+paths = [ "/" ]
+localPort = 24701
+
+[services.development]
+run = "pnpm --filter @workspace/trocalivros run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/trocalivros", "run", "build" ]
+run = [ "pnpm", "--filter", "@workspace/trocalivros", "run", "serve" ]
+
+[services.env]
+PORT = "24701"
+BASE_PATH = "/"
