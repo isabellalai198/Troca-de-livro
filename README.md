@@ -55,7 +55,7 @@ Tema claro/escuro automático com paleta terracota/âmbar.
 
 <img width="918" height="530" alt="image" src="https://github.com/user-attachments/assets/eb786c58-4247-4e23-8302-b97728171897" />
 
-Perfil 👤
+👤 Perfil 
 
 <img width="919" height="533" alt="image" src="https://github.com/user-attachments/assets/090d349a-3741-4afe-ad29-cc9a1d220dc7" />
 
