@@ -43,6 +43,11 @@ Badge de notificação na aba Trocas quando há propostas pendentes.
 
 Tema claro/escuro automático com paleta terracota/âmbar.
 
+<div align="center">
+  <img src="[/caminho/para/sua-imagem.png" width="300" alt="Texto Alternativo](https://github.com/isabellalai198/Book-Swap-Hub/blob/69cd587ea0f2e105a6f32cc4633dd88a3c36d3f1/livro%201.png)">
+</div>
+
+
 🧩 Tecnologias utilizadas
 
 React Native (Expo)
