@@ -80,3 +80,8 @@ QR para acesso:
 
 <img width="330" height="436" alt="image" src="https://github.com/user-attachments/assets/2be82482-f567-4f79-aeba-c513c808c4c3" />
 
+Nome: Isabella lai 
+Matricula: 2023 0823 3866
+Curso: Análise e desenvolvimento de sistemas 
+Matéria: Programação para dispositivos móvbeis em android (VIVO175/14288036/ 2026.1 ao vivo) 3003
+
